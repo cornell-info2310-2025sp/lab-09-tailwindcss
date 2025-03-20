@@ -1,4 +1,4 @@
-# INFO 2310 - Project 2
+# INFO 2310 - Lab/Studio 9
 
 Open this repository as a Codespace on GitHub (or as a container in VS Code.)
 
